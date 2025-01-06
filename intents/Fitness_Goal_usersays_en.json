@@ -1,0 +1,67 @@
+[
+  {
+    "id": "b78987c4-eb75-4791-ac07-6cf25d5a9ded",
+    "data": [
+      {
+        "text": "What exercises help with toning?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e1ce61d-6cc5-4ef9-b140-b99500bd6d51",
+    "data": [
+      {
+        "text": "How do I achieve overall health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33e2574e-d5cb-405d-a340-2a04b7bb3b2d",
+    "data": [
+      {
+        "text": "I want to improve my stamina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "173650c5-1276-42d9-b479-97137f5510b2",
+    "data": [
+      {
+        "text": "My goal is muscle gain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9678f0ec-6dae-4497-800f-84d914e1b6d4",
+    "data": [
+      {
+        "text": "I want to focus on weight loss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

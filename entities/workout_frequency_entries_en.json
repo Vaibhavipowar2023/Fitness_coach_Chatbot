@@ -1,0 +1,50 @@
+[
+  {
+    "value": "Daily",
+    "synonyms": [
+      "Daily"
+    ]
+  },
+  {
+    "value": "3 times a week",
+    "synonyms": [
+      "3 times a week"
+    ]
+  },
+  {
+    "value": "5 times a week",
+    "synonyms": [
+      "5 times a week"
+    ]
+  },
+  {
+    "value": "Twice a week",
+    "synonyms": [
+      "Twice a week"
+    ]
+  },
+  {
+    "value": "Weekends",
+    "synonyms": [
+      "Weekends"
+    ]
+  },
+  {
+    "value": "Once a week",
+    "synonyms": [
+      "Once a week"
+    ]
+  },
+  {
+    "value": "Every other day",
+    "synonyms": [
+      "Every other day"
+    ]
+  },
+  {
+    "value": "4 times a week",
+    "synonyms": [
+      "4 times a week"
+    ]
+  }
+]

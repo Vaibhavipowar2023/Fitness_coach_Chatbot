@@ -1,0 +1,123 @@
+{
+  "id": "78bf2377-b802-46f2-88d4-af56134b1cb6",
+  "name": "Ask_for_Fitness_Tips",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Ask_for_fitness_tips",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "51ca2a36-77fa-45d5-9e7e-db5a7e19fb82",
+          "name": "tips_category",
+          "required": false,
+          "dataType": "@tips_category",
+          "value": "@tips",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "73d9253a-7290-4623-8dd8-ae5c94c2bf5f",
+          "name": "provide_tips",
+          "required": false,
+          "dataType": "@goal_specific_workout",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Consistency is key! Aim for at least 30 minutes of activity daily.",
+            "Stick to a schedule and track your progress to stay consisteny",
+            "Set reminders for workouts to make them a daily habit.",
+            "Find a workout buddy or group for accountability."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Incorporate yoga or stretching exercises into your routine.",
+            "Dynamic stretches before workouts and static stretches afterward can help improve flexibility.",
+            "Stretch regularly, even on rest days."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Focus on compound exercises like squats, push-ups, and deadlifts.",
+            "Start with lighter weights and gradually increase resistance.",
+            "Maintain proper form to avoid injuries."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Engage in cardio exercises like running, cycling, or swimming to improve stamina.",
+            "Interval training can boost your endurance effectively."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Bodyweight exercises like squats, lunges, and planks are great for home workouts"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Set reminders for your workouts to make them a daily habit",
+            "Use household items like water bottles as weights if equipment is unavailable.",
+            "Consider doing a quick HIIT workout if you\u0027re short on time."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "6ede05bd-f6c8-488f-a774-b881b0a40273",
+  "name": "tips_category",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

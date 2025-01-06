@@ -1,0 +1,55 @@
+{
+  "id": "42abc30b-3781-4c82-8b29-a8d487c0f98e",
+  "name": "User Level",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c27bcdb5-ba41-475f-83c4-16e1f76e4fe1",
+          "name": "fitness_level",
+          "required": false,
+          "dataType": "@fitness_level",
+          "value": "$fitness_level",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "As a beginner, start with bodyweight exercises and focus on form.",
+            "Intermediate level workouts should include progressive resistance training and cardio.",
+            "Beginner routines can include brisk walking, light jogging, or yoga to build stamina and flexibility.",
+            "Focus on compound exercises like deadlifts, pull-ups, and bench presses. Include cardio for endurance",
+            "Experts can explore advanced routines like Olympic lifting, CrossFit, or triathlon training.",
+            "Consider periodized training plans to target strength, endurance, and recovery systematically."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

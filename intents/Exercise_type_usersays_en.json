@@ -1,0 +1,129 @@
+[
+  {
+    "id": "bd4d79d6-4007-44df-8594-b9255650d01d",
+    "data": [
+      {
+        "text": "What\u0027s a ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@tips_category",
+        "alias": "tips_category",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cycling",
+        "meta": "@workout_type",
+        "alias": "workout_type",
+        "userDefined": false
+      },
+      {
+        "text": " workout?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fa41710-2296-4262-bd89-f0340f807fdb",
+    "data": [
+      {
+        "text": "Give me ",
+        "userDefined": false
+      },
+      {
+        "text": "tips",
+        "meta": "@exercise_types",
+        "alias": "exercise_types",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "lunges",
+        "meta": "@tips_category",
+        "alias": "tips_category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ba196f9-cb44-4c67-a2e7-d7ac7e33f10f",
+    "data": [
+      {
+        "text": "How do I do ",
+        "userDefined": false
+      },
+      {
+        "text": "deadlifts",
+        "meta": "@exercise_types",
+        "alias": "exercise_types",
+        "userDefined": false
+      },
+      {
+        "text": " correctly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "939cf966-5ed8-4489-aedd-5bcf25177e73",
+    "data": [
+      {
+        "text": "Where are the benefits of ",
+        "userDefined": false
+      },
+      {
+        "text": "push-ups",
+        "meta": "@exercise_types",
+        "alias": "exercise_types",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37f88ca7-9851-433a-b1af-4c688fc79ea1",
+    "data": [
+      {
+        "text": "Tell me about ",
+        "userDefined": false
+      },
+      {
+        "text": "squats",
+        "meta": "@exercise_types",
+        "alias": "exercise_types",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "dc0c2df7-29aa-48ab-9914-3405e1b49dd3",
+  "name": "Motivational Quote",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "42e9242a-c658-4d64-92d9-28166f200a45",
+          "name": "motivational_statement",
+          "required": false,
+          "dataType": "@motivational_statement",
+          "value": "$motivational_statement",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You got this! Keep pushing towards your goals",
+            "Stay strong! Progress takes time, but you’ll get there.",
+            "Believe in yourself. You are stronger than you think"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

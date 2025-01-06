@@ -1,0 +1,58 @@
+{
+  "id": "391fd4d3-17db-4ce7-81dd-5b8759ef4583",
+  "name": "Workout Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a6d5a9d8-3405-4883-9667-49e8047b93bf",
+          "name": "workout_location",
+          "required": false,
+          "dataType": "@workout_location",
+          "value": "$workout_location.original",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What location you prefered"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can do bodyweight exercises like squats and lunges at home.",
+            "At the gym, focus on machines, free weights, and structured routines",
+            "Outdoor workouts can include running, cycling, or circuit training",
+            "Beach workouts are perfect for sprints, planks, and volleyball."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

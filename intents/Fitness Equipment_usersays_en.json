@@ -1,0 +1,74 @@
+[
+  {
+    "id": "58a72852-da1c-4625-b6d0-d3d8925da6bf",
+    "data": [
+      {
+        "text": "What can I use instead of a ",
+        "userDefined": false
+      },
+      {
+        "text": "treadmill",
+        "meta": "@workout_type",
+        "alias": "workout_type",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c79ab607-6c3b-4283-86eb-969c8d5816ca",
+    "data": [
+      {
+        "text": "How can I use a resistance band?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b2b09b0-8d04-4bee-afc0-184e2b19a725",
+    "data": [
+      {
+        "text": "Can I work out with dumbbells?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "715165be-67e9-4677-b4a3-f827f7186571",
+    "data": [
+      {
+        "text": "What equipment do I need for ",
+        "userDefined": false
+      },
+      {
+        "text": "strength training",
+        "meta": "@fitness_equipment",
+        "alias": "fitness_equipment",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

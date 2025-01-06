@@ -1,0 +1,62 @@
+[
+  {
+    "value": "Gym",
+    "synonyms": [
+      "Gym"
+    ]
+  },
+  {
+    "value": "Home",
+    "synonyms": [
+      "Home"
+    ]
+  },
+  {
+    "value": "Outdoor",
+    "synonyms": [
+      "Outdoor"
+    ]
+  },
+  {
+    "value": "Office",
+    "synonyms": [
+      "Office"
+    ]
+  },
+  {
+    "value": "Park",
+    "synonyms": [
+      "Park"
+    ]
+  },
+  {
+    "value": "Beach",
+    "synonyms": [
+      "Beach"
+    ]
+  },
+  {
+    "value": "Studio",
+    "synonyms": [
+      "Studio"
+    ]
+  },
+  {
+    "value": "Yoga studio",
+    "synonyms": [
+      "Yoga studio"
+    ]
+  },
+  {
+    "value": "Fitness center",
+    "synonyms": [
+      "Fitness center"
+    ]
+  },
+  {
+    "value": "Playground",
+    "synonyms": [
+      "Playground"
+    ]
+  }
+]

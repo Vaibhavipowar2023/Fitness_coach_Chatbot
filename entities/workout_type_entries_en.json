@@ -1,0 +1,72 @@
+[
+  {
+    "value": "Cardio",
+    "synonyms": [
+      "Cardio",
+      "running, jogging, treadmill, elliptical, cycling"
+    ]
+  },
+  {
+    "value": "Strength Training",
+    "synonyms": [
+      "Strength Training",
+      "weightlifting, resistance training, lifting weights, muscle building, strength exercises, lifting, powerlifting"
+    ]
+  },
+  {
+    "value": "Flexibility",
+    "synonyms": [
+      "Flexibility",
+      "yoga, stretching, flexibility exercises, Pilates, flexibility training, mobility exercises, stretching routine"
+    ]
+  },
+  {
+    "value": "Endurance",
+    "synonyms": [
+      "Endurance",
+      "stamina training, endurance workout, long-duration exercise, marathon training, distance running, endurance building"
+    ]
+  },
+  {
+    "value": "HIIT (High-Intensity Interval Training)",
+    "synonyms": [
+      "HIIT (High-Intensity Interval Training)",
+      "HIIT, interval training, high-intensity interval workout, short bursts workout, fast-paced training, sprints, circuit training"
+    ]
+  },
+  {
+    "value": "Yoga",
+    "synonyms": [
+      "Yoga",
+      "Vinyasa, Hatha yoga, Bikram, Ashtanga, yoga session, stretching yoga, mindfulness exercises"
+    ]
+  },
+  {
+    "value": "Pilates",
+    "synonyms": [
+      "Pilates",
+      "mat pilates, reformer pilates, Pilates workout, core workout, Pilates exercises, Pilates training"
+    ]
+  },
+  {
+    "value": "Running",
+    "synonyms": [
+      "Running",
+      "jogging, sprinting, road running, trail running, long-distance running, running workout"
+    ]
+  },
+  {
+    "value": "Cycling",
+    "synonyms": [
+      "Cycling",
+      "biking, spin, bike ride, stationary bike, cycle, mountain biking, road cycling"
+    ]
+  },
+  {
+    "value": "Swimming",
+    "synonyms": [
+      "Swimming",
+      "swim, laps, pool exercises, water workout, aquatic exercise, freestyle, backstroke"
+    ]
+  }
+]

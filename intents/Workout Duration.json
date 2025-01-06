@@ -1,0 +1,105 @@
+{
+  "id": "f7951bf0-e4b1-4f4e-99ad-6f090c525421",
+  "name": "Workout Duration",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "59877536-d374-452a-b26f-e8bd3a0b71e4",
+          "name": "workout_duration",
+          "required": false,
+          "dataType": "@workout_duration",
+          "value": "$workout_duration",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How much time do you have for your workout?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5890ce95-0b8f-40f7-91f9-f93b056d3705",
+          "name": "exercise_types",
+          "required": false,
+          "dataType": "@exercise_types",
+          "value": "$exercise_types",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0b24029f-e982-4b2b-a930-92363b392763",
+          "name": "tips_category",
+          "required": false,
+          "dataType": "@tips_category",
+          "value": "$tips_category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5fe9a8d9-3800-486d-b4b3-9ea8836dba5f",
+          "name": "workout_type",
+          "required": false,
+          "dataType": "@workout_type",
+          "value": "$workout_type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For a 30-minute workout, try a combination of strength training and cardio.",
+            "A 1-hour workout is perfect for a full-body routine that includes warm-up and cool-down."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

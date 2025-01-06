@@ -1,0 +1,9 @@
+{
+  "id": "881e87d5-ab1e-4671-a058-04d7989726d9",
+  "name": "workout_type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "value": "abs",
+    "synonyms": [
+      "abs"
+    ]
+  },
+  {
+    "value": "Arms",
+    "synonyms": [
+      "Arms"
+    ]
+  },
+  {
+    "value": "Legs",
+    "synonyms": [
+      "Legs"
+    ]
+  },
+  {
+    "value": "Chest",
+    "synonyms": [
+      "Chest"
+    ]
+  },
+  {
+    "value": "Back",
+    "synonyms": [
+      "Back"
+    ]
+  },
+  {
+    "value": "Shoulders",
+    "synonyms": [
+      "Shoulders"
+    ]
+  },
+  {
+    "value": "Glutes",
+    "synonyms": [
+      "Glutes"
+    ]
+  },
+  {
+    "value": "Calves",
+    "synonyms": [
+      "Calves"
+    ]
+  },
+  {
+    "value": "Full body",
+    "synonyms": [
+      "Full body"
+    ]
+  },
+  {
+    "value": "Core",
+    "synonyms": [
+      "Core"
+    ]
+  },
+  {
+    "value": "Upper body",
+    "synonyms": [
+      "Upper body"
+    ]
+  },
+  {
+    "value": "Lower body",
+    "synonyms": [
+      "Lower body"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "c0fb1743-9357-47cb-86a5-45dd88138e32",
+  "name": "exercise_types",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

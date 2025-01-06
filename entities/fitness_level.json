@@ -1,0 +1,9 @@
+{
+  "id": "1b609b58-e4e0-4b84-bc15-c8d179724170",
+  "name": "fitness_level",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

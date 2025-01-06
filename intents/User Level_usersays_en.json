@@ -1,0 +1,139 @@
+[
+  {
+    "id": "22fc26a5-e1a2-4b9c-b60f-b89eba63e9a1",
+    "data": [
+      {
+        "text": "What\u0027s the best workout for ",
+        "userDefined": false
+      },
+      {
+        "text": "experts",
+        "meta": "@fitness_level",
+        "alias": "fitness_level",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dac6e144-6e06-4dcd-b54b-449ed7659b6b",
+    "data": [
+      {
+        "text": "I\u0027m an advanced athlete. What routines do you recommend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cfe1b5a-8df5-4dcf-97fd-f744e61402f2",
+    "data": [
+      {
+        "text": "I\u0027m at an intermediate level. What should I try?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b55bb8c-e48e-4187-9be1-b7f5b3f608d6",
+    "data": [
+      {
+        "text": "I\u0027m new to fitness. Where should I start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c7265dc-67c6-4ffe-a87f-4481612d11ef",
+    "data": [
+      {
+        "text": "What are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@fitness_level",
+        "alias": "fitness_level",
+        "userDefined": false
+      },
+      {
+        "text": " beginner exercises?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc4d8266-260c-4bdd-b01a-24db766935a8",
+    "data": [
+      {
+        "text": "What\u0027s the best routine for an expert?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b909631b-ae47-498c-966f-a187b86e95fb",
+    "data": [
+      {
+        "text": "Give me advanced workout routines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6e23aee-1122-48cd-834e-b952dbb88c91",
+    "data": [
+      {
+        "text": "I\u0027m an intermediate level, what exercises can I try?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db3a81cd-3137-4f07-bbe9-d37879627e6b",
+    "data": [
+      {
+        "text": "I\u0027m a beginner, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

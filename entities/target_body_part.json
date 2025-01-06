@@ -1,0 +1,9 @@
+{
+  "id": "8eef6988-d58f-44a0-b2c6-8a2647886bb9",
+  "name": "target_body_part",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

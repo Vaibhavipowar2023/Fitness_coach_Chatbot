@@ -1,0 +1,9 @@
+{
+  "id": "d63b208a-93d4-451b-a972-a64e96826279",
+  "name": "motivational_statement",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": true,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

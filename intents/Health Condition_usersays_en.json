@@ -1,0 +1,74 @@
+[
+  {
+    "id": "59a0f5f4-e856-46f5-bc6b-b5e85a3ae075",
+    "data": [
+      {
+        "text": "Can I work out with hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7197c28e-2ca0-4f2e-b956-dfc8c1530e36",
+    "data": [
+      {
+        "text": "What exercises are ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@tips_category",
+        "alias": "tips_category",
+        "userDefined": false
+      },
+      {
+        "text": " for diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "824c5aa5-11f3-4325-b964-23cd0ae41630",
+    "data": [
+      {
+        "text": "What should I do if I have asthma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "057252f3-4c2f-4e49-b981-320328d5d045",
+    "data": [
+      {
+        "text": "Can I exercise with back ",
+        "userDefined": false
+      },
+      {
+        "text": "pain",
+        "meta": "@health_metric",
+        "alias": "health_metric",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
