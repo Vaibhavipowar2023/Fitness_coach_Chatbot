@@ -1,9 +1,0 @@
-{
-  "id": "ed8a40e4-3af9-4c92-b10f-d7bea0dbdde7",
-  "name": "workout_location",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": true,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

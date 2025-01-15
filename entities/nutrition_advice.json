@@ -1,9 +1,0 @@
-{
-  "id": "7abbd406-711a-423b-9e18-2bf9487560a3",
-  "name": "nutrition_advice",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": true,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

@@ -1,9 +1,0 @@
-{
-  "id": "865cc204-cc1a-4ea2-b362-d39cbc292d9e",
-  "name": "goal_specific_workout",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": true,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

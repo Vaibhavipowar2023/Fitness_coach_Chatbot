@@ -1,9 +1,0 @@
-{
-  "id": "e9e31a2d-416e-459d-be9e-44749361fca3",
-  "name": "fitness_equipment",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": true,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

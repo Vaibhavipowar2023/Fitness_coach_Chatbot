@@ -1,9 +1,0 @@
-{
-  "id": "a3cb5f0f-34d0-47e4-848a-c46bae451068",
-  "name": "workout_duration",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": true,
-  "automatedExpansion": true,
-  "allowFuzzyExtraction": false
-}

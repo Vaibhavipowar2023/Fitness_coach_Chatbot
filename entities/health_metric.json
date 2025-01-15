@@ -1,9 +1,0 @@
-{
-  "id": "f88fadfc-dfa3-4dd4-8151-1dd276f565af",
-  "name": "health_metric",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": true,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

@@ -1,9 +1,0 @@
-{
-  "id": "77d8a365-399e-43c5-9a6b-8d9fc76d1d5b",
-  "name": "workout_frequency",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": true,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

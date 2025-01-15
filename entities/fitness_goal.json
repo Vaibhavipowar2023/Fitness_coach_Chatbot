@@ -1,9 +1,0 @@
-{
-  "id": "373bd39f-c577-470a-a652-a7b569658a60",
-  "name": "fitness_goal",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": true,
-  "allowFuzzyExtraction": true
-}
